@@ -23,7 +23,7 @@ A simple HTML, CSS, and JavaScript project that animates multiple text quotes by
 2. Open `index.html` in your browser.
 3. Watch the quotes animate!
 
-
+##live web :https://animatedtextweb.netlify.app/
 
 ---
 
